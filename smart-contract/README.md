@@ -1,0 +1,7 @@
+## contract address
+0x016FFd6c6849b7f5a8e03F6DD68820595A968B64
+https://rinkeby.etherscan.io/address/0x016ffd6c6849b7f5a8e03f6dd68820595a968b64
+
+## transaction hash
+0x9824b85d96051fd506f3da8c5483599992d6bd73e6c1f25370bdb675d008b802
+https://rinkeby.etherscan.io/tx/0x9824b85d96051fd506f3da8c5483599992d6bd73e6c1f25370bdb675d008b802
